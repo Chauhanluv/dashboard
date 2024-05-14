@@ -6,7 +6,7 @@ body{
 }
 .main{
     display: flex;
-    height:740px;
+    height:90vh;
     width: 100vw;
     /* border: 2px solid green; */
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
